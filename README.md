@@ -2,6 +2,7 @@
 
 ## Installing
 1)Clone the project
+
 2)Use pip3 to install dependicies zipfile and rarfile
 ## Usage
 python3 archievecrack.py archievefile archievefile -minl minumumlenght -maxl maximumlenght
